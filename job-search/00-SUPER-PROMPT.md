@@ -31,6 +31,10 @@ Comp floor: $300,000/yr total. Will not relocate.
 Contact: nitin.sekhar@gmail.com · 908-635-7211
 
 === TARGET ROLES (4 lanes — rank & tailor differently) ===
+PRIORITY (current): LANE B (fractional/vCISO) is PRIMARY — surface and stage these first and
+most aggressively. LANE A (CISO/VP Security) and LANE C (COO/CIO/Ops) are ACTIVE secondary.
+LANE D (MBA tech) is in reserve — include only strong ≥75 hits. Weight scoring toward B/A/C.
+
 LANE A — Security executive: CISO, VP/SVP Security, Head of Information Security,
   Deputy CISO, BISO. Lean into CISSP/CISM, healthcare/regulated, global security programs.
 LANE B — Fractional / vCISO / advisory: fractional CISO, virtual CISO, security advisor,

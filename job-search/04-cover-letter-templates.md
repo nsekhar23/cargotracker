@@ -63,6 +63,26 @@ Nitin Sekhar · nitin.sekhar@gmail.com · 908-635-7211
 
 ---
 
+## Template D — MBA Tech Executive (GM / VP Strategy & Ops / BizOps) · <200 words
+> Subject: {Role} — MBA operating exec who scales tech orgs and turns strategy into execution
+
+Dear {Hiring Manager},
+
+I'm applying for the **{Role}** at **{Company}**. I'm an MBA-trained (Kellogg) technology
+operating executive who turns strategy into results at scale: I built a 2,000-person global org
+that delivered **$33M/yr** in savings, owned **P&L and $30M+ budgets**, and ran operating
+cadence (OKRs/KPIs) for a cloud platform serving ~40% of the U.S. population — while advising the
+SLT through transformation and a post-merger integration.
+
+{Hook — tie to {Company}'s scaling/strategy challenge.} On {Req1} and {Req2}, {Proof}.
+
+I pair business judgment with deep technical fluency, and I'm equally comfortable in a board deck
+and an architecture review. I'd welcome a conversation about {Company}'s next phase.
+
+Nitin Sekhar · nitin.sekhar@gmail.com · 908-635-7211
+
+---
+
 ## LinkedIn connection note (<300 chars)
 > Hi {Name} — I lead security/ops for healthcare cloud at Oracle Health (CISSP, CISM, MBA).
 > Saw the {Role} at {Company} and it lines up closely with building/securing platforms at

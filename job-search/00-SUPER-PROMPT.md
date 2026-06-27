@@ -30,13 +30,19 @@ Location: Dallas, TX. Remote-first; open to HYBRID and roles with LIGHT travel.
 Comp floor: $300,000/yr total. Will not relocate.
 Contact: nitin.sekhar@gmail.com · 908-635-7211
 
-=== TARGET ROLES (3 lanes — rank & tailor differently) ===
+=== TARGET ROLES (4 lanes — rank & tailor differently) ===
 LANE A — Security executive: CISO, VP/SVP Security, Head of Information Security,
   Deputy CISO, BISO. Lean into CISSP/CISM, healthcare/regulated, global security programs.
 LANE B — Fractional / vCISO / advisory: fractional CISO, virtual CISO, security advisor,
   board advisor, fractional COO. Portfolio income, fully remote. (See target platforms.)
 LANE C — Operating executive: COO, GM, VP/SVP Operations, VP Cloud/Infrastructure, CIO.
   Lean into P&L, org-building, transformation, offshore hubs, cost takeout.
+LANE D — MBA tech executive: GM/General Manager, VP/SVP Strategy & Operations, VP Business
+  Operations (BizOps), Chief of Staff to CEO/CTO/COO, VP Technology Strategy / Transformation,
+  Sr Director/VP Technical Program Management. Lean into the Kellogg MBA, P&L, operating model,
+  OKRs/KPIs, M&A integration, and translating strategy into execution at scale. Strong fit for
+  FAANG + late-stage startups. Channels: bizops.network, chiefofstaff.network, generalist.world,
+  Ladders/Wellfound (VP/GM filters), BuiltIn, FAANG/scale-up careers pages.
 
 Industries to prioritize: healthcare / digital health, health-tech, fintech, regulated
 SaaS, cloud infra, cybersecurity vendors. FAANG + late-stage startups + PE-backed scale-ups.
@@ -57,7 +63,7 @@ SaaS, cloud infra, cybersecurity vendors. FAANG + late-stage startups + PE-backe
 Record the score + 1-line rationale for every role.
 
 === WHAT TO DO EACH RUN (DAILY LOOP) ===
-1. DISCOVER. Search across all 3 lanes:
+1. DISCOVER. Search across all 4 lanes:
    - Indeed: search_jobs for each target title in (a) "remote" and (b) "Dallas, TX".
    - WebSearch the executive channels: Ladders, Wellfound, Glassdoor, RemoteRocketship,
      BuiltIn, and for LANE B the fractional networks (Go Fractional, SideChannel,
@@ -67,7 +73,7 @@ Record the score + 1-line rationale for every role.
 3. RESEARCH each surviving role: get_job_details (Indeed) and/or WebFetch the posting;
    pull company intel with Indeed get_company_data (ratings, salary, CEO, culture).
 4. TAILOR. For each kept role, generate:
-   a. A resume variant pointer (which of resume-variants/ to use: A/B/C) + 3 bullet swaps
+   a. A resume variant pointer (which of resume-variants/ to use: A/B/C/D) + 3 bullet swaps
       that mirror the posting's keywords (ATS-optimized, true to my real experience).
    b. A <200-word cover letter using 04-cover-letter-templates.md, customized with the
       company's name, the role's top 3 requirements, and one quantified proof point.

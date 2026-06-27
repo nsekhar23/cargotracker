@@ -23,6 +23,7 @@
 
 ## Targeting
 - **Lanes:** A) Security exec (CISO/VP Security)  B) Fractional/vCISO/advisory  C) COO/GM/Ops exec
+  D) MBA tech exec (GM / VP Strategy & Ops / BizOps / Chief of Staff / VP Transformation)
 - **Geo:** Remote (US) · Dallas–Fort Worth hybrid · light-travel OK · **no relocation**
 - **Comp floor:** $300K total (or fractional ≥ ~$12K/mo)
 - **Industries:** healthcare/digital health, health-tech, fintech, regulated SaaS, cloud,

@@ -1,0 +1,9 @@
+{
+  "_comment": "Copy this into your Claude MCP config (claude_desktop_config.json or .mcp.json), then restart Claude. Add '--headed' to args for the first runs so you can watch and clear any CAPTCHA/MFA.",
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest", "--browser", "chromium"]
+    }
+  }
+}

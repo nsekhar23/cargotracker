@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<style>
+  @page { size: Letter; margin: 0; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body {
+    font-family: "Georgia", "Times New Roman", serif;
+    color: #1a1f2e;
+    font-size: 10pt;
+    line-height: 1.3;
+    background: #ffffff;
+  }
+  .page { padding: 0.4in 0.62in 0.3in 0.62in; }
+
+  /* Header */
+  header { border-bottom: 2.5px solid #b8973f; padding-bottom: 11px; margin-bottom: 13px; }
+  .name {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 27pt; font-weight: 700; letter-spacing: 3.5px;
+    color: #0f1venture; color: #14213d; text-transform: uppercase;
+  }
+  .title {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 10.5pt; letter-spacing: 1.4px; color: #b8973f;
+    font-weight: 600; margin-top: 5px; text-transform: uppercase;
+  }
+  .contact {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 8.8pt; color: #44495a; margin-top: 8px; letter-spacing: 0.3px;
+  }
+  .contact span { color: #b8973f; font-weight: 700; margin: 0 6px; }
+
+  /* Section headings */
+  h2 {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 10.5pt; letter-spacing: 2px; text-transform: uppercase;
+    color: #14213d; font-weight: 700;
+    border-bottom: 1px solid #d8c79a; padding-bottom: 3px; margin: 9px 0 6px;
+  }
+
+  .summary { text-align: justify; color: #2a3040; }
+
+  /* Competencies */
+  .comp-grid {
+    display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 2px 22px;
+    font-family: "Helvetica Neue", Arial, sans-serif; font-size: 9pt; color: #2a3040;
+  }
+  .comp-grid div { padding: 1.5px 0; }
+  .comp-grid div::before { content: "▪"; color: #b8973f; margin-right: 7px; font-size: 8pt; }
+
+  /* Experience */
+  .job { margin-bottom: 8px; }
+  .two-col h2:first-child { margin-top: 4px; }
+  .job-head { display: flex; justify-content: space-between; align-items: baseline; }
+  .company {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 11pt; font-weight: 700; color: #14213d;
+  }
+  .dates {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-size: 8.8pt; color: #6b7180; font-weight: 600; white-space: nowrap;
+  }
+  .role { font-style: italic; font-size: 10pt; color: #b8973f; font-weight: 600; margin: 1px 0 5px; }
+  .context { font-size: 9.2pt; color: #555b6b; margin-bottom: 4px; }
+  ul { list-style: none; }
+  li { position: relative; padding-left: 15px; margin-bottom: 3.5px; text-align: justify; }
+  li::before { content: ""; position: absolute; left: 2px; top: 6px; width: 4px; height: 4px; background: #b8973f; border-radius: 50%; }
+  li b { color: #14213d; }
+
+  /* bottom grid */
+  .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 22px; }
+  .ed-item { margin-bottom: 5px; font-size: 9.4pt; }
+  .ed-item .deg { font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 700; color: #14213d; }
+  .ed-item .sch { color: #555b6b; font-size: 9pt; }
+  .certs { font-family: "Helvetica Neue", Arial, sans-serif; font-weight: 700; color: #14213d; font-size: 10pt; letter-spacing: 0.5px; }
+  .certs span { color: #b8973f; margin: 0 3px; }
+</style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="name">Nitin Sekhar</div>
+    <div class="title">Cybersecurity &amp; Operations Executive&nbsp;&nbsp;·&nbsp;&nbsp;CISO&nbsp;·&nbsp;Fractional vCISO&nbsp;·&nbsp;COO</div>
+    <div class="contact">
+      Dallas, TX &nbsp;(Remote / Hybrid)<span>|</span>nitin.sekhar@gmail.com<span>|</span>908-635-7211<span>|</span>CISSP &middot; CISM &middot; PMP &middot; MBA, Kellogg
+    </div>
+  </header>
+
+  <div class="summary">
+    Security and operations executive with 20+ years protecting and scaling the systems healthcare runs on. Owns security program delivery, regulatory compliance (HIPAA / NIST / SOX), and risk for a healthcare cloud serving roughly <b>40% of the U.S. population</b> &mdash; 240M+ daily transactions across a Tier-4 environment of 3,000+ servers. Builds global organizations (a <b>2,000-person hub delivering $33M/yr in savings</b>), owns P&amp;L and $30M+ budgets, and is a trusted advisor to senior leadership on risk, transformation, and post-merger integration.
+  </div>
+
+  <h2>Core Competencies</h2>
+  <div class="comp-grid">
+    <div>CISO &amp; Security Leadership</div>
+    <div>Risk Management &amp; Governance</div>
+    <div>HIPAA / NIST / SOX Compliance</div>
+    <div>Cloud &amp; Infrastructure Security</div>
+    <div>Incident Response</div>
+    <div>Security Program Maturity</div>
+    <div>P&amp;L &amp; Budget Ownership</div>
+    <div>Global Org Building &amp; Scaling</div>
+    <div>Business &amp; Digital Transformation</div>
+    <div>M&amp;A / Post-Merger Integration</div>
+    <div>Vendor &amp; Stakeholder Management</div>
+    <div>Board &amp; Executive Reporting</div>
+  </div>
+
+  <h2>Professional Experience</h2>
+
+  <div class="job">
+    <div class="job-head">
+      <span class="company">Oracle Health &amp; AI <span style="font-weight:400;font-size:9pt;color:#6b7180;">(formerly Cerner)</span></span>
+      <span class="dates">2019 &ndash; Present</span>
+    </div>
+    <div class="role">Senior Director, Hosting &amp; Cybersecurity Projects</div>
+    <ul>
+      <li>Own <b>security program delivery, regulatory compliance (HIPAA / NIST / SOX), and risk</b> for healthcare cloud serving ~40% of the U.S. population &mdash; <b>240M+ daily transactions</b> and 1M+ daily logins.</li>
+      <li>Maintain availability and security posture across a <b>Tier-4 data center of 3,000+ servers</b>, aligning controls to audit and regulatory requirements.</li>
+      <li>Serve as <b>trusted advisor to senior leadership</b> on cyber risk, organizational restructuring, and the Cerner&ndash;Oracle post-merger integration.</li>
+      <li>Lead 100+ cross-functional global professionals across the U.S., Germany, and India.</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job-head">
+      <span class="company">Cerner Corporation</span>
+      <span class="dates">2015 &ndash; 2019</span>
+    </div>
+    <div class="role">Director, IT &mdash; Cloud Technology &amp; Services</div>
+    <ul>
+      <li>Led security and operations for mission-critical hosted healthcare applications through the Siemens&rarr;Cerner transition.</li>
+      <li><b>Built a 2,000-person global delivery hub</b> in Bangalore; engineered the talent and workstream strategy that produced <b>$33M/yr in operating savings</b>.</li>
+      <li>Ranked in the <b>top 1% of performers</b>; selected by the senior leadership team to lead transformative, disruptive initiatives including on-premise-to-cloud migration (AWS and Oracle).</li>
+    </ul>
+  </div>
+
+  <div class="job">
+    <div class="job-head">
+      <span class="company">Siemens Healthcare</span>
+      <span class="dates">2008 &ndash; 2015</span>
+    </div>
+    <div class="role">Director / Senior Manager &mdash; Cloud Technology &amp; Services</div>
+    <ul>
+      <li>Owned <b>P&amp;L and $30M+ budgets</b> for the Financials application cluster (Soarian Financials, Scheduling, Business Intelligence); delivered an <b>$11M cloud-budget reduction</b> while protecting uptime and SLAs.</li>
+      <li>Ensured availability and security of <b>3,000+ servers</b> supporting the cloud-based Financials cluster across U.S., Germany, and India.</li>
+      <li>Owned <b>ITIL process governance</b> and the cloud technology roadmap; led cross-functional global teams of 100+.</li>
+    </ul>
+  </div>
+
+  <div class="two-col">
+    <div>
+      <h2>Education</h2>
+      <div class="ed-item"><span class="deg">MBA, Executive</span> &mdash; <span class="sch">Kellogg School of Management, Northwestern University</span></div>
+      <div class="ed-item"><span class="deg">M.S.</span> &mdash; <span class="sch">University of Michigan</span></div>
+      <div class="ed-item"><span class="deg">B.S.</span> &mdash; <span class="sch">Penn State University</span></div>
+    </div>
+    <div>
+      <h2>Certifications</h2>
+      <div class="certs">CISSP <span>&middot;</span> CISM <span>&middot;</span> PMP <span>&middot;</span> CSM <span>&middot;</span> ITIL</div>
+      <h2>Advisory / Fractional</h2>
+      <div style="font-size:9.2pt;color:#2a3040;">Available for retained vCISO leadership, HIPAA / SOC 2 / NIST compliance sprints, and security program assessments.</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

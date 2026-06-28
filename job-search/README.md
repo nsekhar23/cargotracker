@@ -11,6 +11,9 @@ A self-running system that finds, scores, tailors, and stages applications for s
 | `02-opportunity-report.md` | Latest run's findings + the executive channels where your pipeline lives. |
 | `04-cover-letter-templates.md` | Auto-fill cover letters + LinkedIn outreach, one per lane. |
 | `05-automation.md` | How the daily cron runs and your 2-min/day routine. |
+| `06-auto-apply-setup.md` | Two paths to automate *submission* (Playwright MCP ⭐ vs. mass auto-apply services). |
+| `applications/apply-queue.csv` | The work list a browser-automation agent submits, top to bottom. |
+| `playwright-mcp.config.sample.json` | Copy-paste MCP config to enable automated form submission. |
 | `resume-variants/` | 3 ATS-tuned positionings: Security exec / Fractional / Operating exec. |
 | `applications/tracker.csv` | System of record: every role, score, status, apply link. |
 
